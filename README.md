@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="GabrielPereyra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="GabrielPereyra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
+<br />
+
 ---
 
 [LinkedIn]: https://www.linkedin.com/in/gabriel-orlando-pereyra-a10a13149/
